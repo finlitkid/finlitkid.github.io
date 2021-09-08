@@ -53,7 +53,7 @@
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
   //Read the data
-  {{ $url:= (printf "%s%s%s" "data/accounts/" .File.TranslationBaseName "/jisa/valuations.csv") }}
+  {{ $url:= (printf "%s%s%s" "data/accounts/" .File.TranslationBaseName "/jisa/contributions.csv") }}
   {{ $sep:= "," }}
 
   var csvData = {{ getCSV $sep $url }}
