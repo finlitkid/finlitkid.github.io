@@ -1,0 +1,30 @@
+baseURL: 'https://www.finlitkid.com/'
+enableGitInfo: true
+languageCode: en-gb
+title: The Financially Literate Kid
+theme: PaperMod
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+params:
+    ShowReadingTime: true
+    ShowPostNavLinks: true
+    env: production
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about/
+      weight: -110
+    - name: Blog
+      url: /posts/
+      weight: -100
+    - name: Investment Policy
+      url: /investment-policy/
+      weight: -90
+    - name: Accounts
+      url: /accounts/
+      weight: -100
