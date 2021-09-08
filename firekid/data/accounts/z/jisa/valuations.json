@@ -1,0 +1,4038 @@
+{
+  "period": "ALL",
+  "currency": "GBP",
+  "points": [
+    {
+      "overallValue": 100,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-02-10",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 101,
+      "returnValue": 1,
+      "simpleReturnPercent": 1,
+      "date": "2020-02-11",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 101,
+      "returnValue": 1,
+      "simpleReturnPercent": 1,
+      "date": "2020-02-12",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 100,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-02-13",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 100,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-02-14",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 100,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-02-15",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 100,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-02-16",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 101,
+      "returnValue": 1,
+      "simpleReturnPercent": 1,
+      "date": "2020-02-17",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 100,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-02-18",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 101,
+      "returnValue": 1,
+      "simpleReturnPercent": 1,
+      "date": "2020-02-19",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 100,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-02-20",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 100,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-02-21",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 100,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-02-22",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 100,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-02-23",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-02-24",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-02-25",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-02-26",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-02-27",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 89,
+      "returnValue": -11,
+      "simpleReturnPercent": -11,
+      "date": "2020-02-28",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 89,
+      "returnValue": -11,
+      "simpleReturnPercent": -11,
+      "date": "2020-02-29",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 89,
+      "returnValue": -11,
+      "simpleReturnPercent": -11,
+      "date": "2020-03-01",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-03-02",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-03-03",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-03-04",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-03-05",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 88,
+      "returnValue": -12,
+      "simpleReturnPercent": -12,
+      "date": "2020-03-06",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 88,
+      "returnValue": -12,
+      "simpleReturnPercent": -12,
+      "date": "2020-03-07",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 88,
+      "returnValue": -12,
+      "simpleReturnPercent": -12,
+      "date": "2020-03-08",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-03-09",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-03-10",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-03-11",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 74,
+      "returnValue": -26,
+      "simpleReturnPercent": -26,
+      "date": "2020-03-12",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 75,
+      "returnValue": -25,
+      "simpleReturnPercent": -25,
+      "date": "2020-03-13",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 75,
+      "returnValue": -25,
+      "simpleReturnPercent": -25,
+      "date": "2020-03-14",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 75,
+      "returnValue": -25,
+      "simpleReturnPercent": -25,
+      "date": "2020-03-15",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 73,
+      "returnValue": -27,
+      "simpleReturnPercent": -27,
+      "date": "2020-03-16",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 74,
+      "returnValue": -26,
+      "simpleReturnPercent": -26,
+      "date": "2020-03-17",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 71,
+      "returnValue": -29,
+      "simpleReturnPercent": -29,
+      "date": "2020-03-18",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 72,
+      "returnValue": -28,
+      "simpleReturnPercent": -28,
+      "date": "2020-03-19",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 73,
+      "returnValue": -27,
+      "simpleReturnPercent": -27,
+      "date": "2020-03-20",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 73,
+      "returnValue": -27,
+      "simpleReturnPercent": -27,
+      "date": "2020-03-21",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 73,
+      "returnValue": -27,
+      "simpleReturnPercent": -27,
+      "date": "2020-03-22",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 70,
+      "returnValue": -30,
+      "simpleReturnPercent": -30,
+      "date": "2020-03-23",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 75,
+      "returnValue": -25,
+      "simpleReturnPercent": -25,
+      "date": "2020-03-24",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 78,
+      "returnValue": -22,
+      "simpleReturnPercent": -22,
+      "date": "2020-03-25",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 79,
+      "returnValue": -21,
+      "simpleReturnPercent": -21,
+      "date": "2020-03-26",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 76,
+      "returnValue": -24,
+      "simpleReturnPercent": -24,
+      "date": "2020-03-27",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 76,
+      "returnValue": -24,
+      "simpleReturnPercent": -24,
+      "date": "2020-03-28",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 76,
+      "returnValue": -24,
+      "simpleReturnPercent": -24,
+      "date": "2020-03-29",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 77,
+      "returnValue": -23,
+      "simpleReturnPercent": -23,
+      "date": "2020-03-30",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 78,
+      "returnValue": -22,
+      "simpleReturnPercent": -22,
+      "date": "2020-03-31",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 75,
+      "returnValue": -25,
+      "simpleReturnPercent": -25,
+      "date": "2020-04-01",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 75,
+      "returnValue": -25,
+      "simpleReturnPercent": -25,
+      "date": "2020-04-02",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 75,
+      "returnValue": -25,
+      "simpleReturnPercent": -25,
+      "date": "2020-04-03",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 75,
+      "returnValue": -25,
+      "simpleReturnPercent": -25,
+      "date": "2020-04-04",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 75,
+      "returnValue": -25,
+      "simpleReturnPercent": -25,
+      "date": "2020-04-05",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 78,
+      "returnValue": -22,
+      "simpleReturnPercent": -22,
+      "date": "2020-04-06",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 80,
+      "returnValue": -20,
+      "simpleReturnPercent": -20,
+      "date": "2020-04-07",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 80,
+      "returnValue": -20,
+      "simpleReturnPercent": -20,
+      "date": "2020-04-08",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-04-09",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-04-10",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-04-11",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-04-12",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-04-13",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 81,
+      "returnValue": -19,
+      "simpleReturnPercent": -19,
+      "date": "2020-04-14",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 80,
+      "returnValue": -20,
+      "simpleReturnPercent": -20,
+      "date": "2020-04-15",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 80,
+      "returnValue": -20,
+      "simpleReturnPercent": -20,
+      "date": "2020-04-16",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-04-17",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-04-18",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-04-19",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-04-20",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 80,
+      "returnValue": -20,
+      "simpleReturnPercent": -20,
+      "date": "2020-04-21",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 81,
+      "returnValue": -19,
+      "simpleReturnPercent": -19,
+      "date": "2020-04-22",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-04-23",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 81,
+      "returnValue": -19,
+      "simpleReturnPercent": -19,
+      "date": "2020-04-24",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 81,
+      "returnValue": -19,
+      "simpleReturnPercent": -19,
+      "date": "2020-04-25",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 81,
+      "returnValue": -19,
+      "simpleReturnPercent": -19,
+      "date": "2020-04-26",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 83,
+      "returnValue": -17,
+      "simpleReturnPercent": -17,
+      "date": "2020-04-27",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 84,
+      "returnValue": -16,
+      "simpleReturnPercent": -16,
+      "date": "2020-04-28",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 86,
+      "returnValue": -14,
+      "simpleReturnPercent": -14,
+      "date": "2020-04-29",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 84,
+      "returnValue": -16,
+      "simpleReturnPercent": -16,
+      "date": "2020-04-30",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-05-01",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-05-02",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-05-03",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 81,
+      "returnValue": -19,
+      "simpleReturnPercent": -19,
+      "date": "2020-05-04",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 83,
+      "returnValue": -17,
+      "simpleReturnPercent": -17,
+      "date": "2020-05-05",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 83,
+      "returnValue": -17,
+      "simpleReturnPercent": -17,
+      "date": "2020-05-06",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 84,
+      "returnValue": -16,
+      "simpleReturnPercent": -16,
+      "date": "2020-05-07",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 84,
+      "returnValue": -16,
+      "simpleReturnPercent": -16,
+      "date": "2020-05-08",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 84,
+      "returnValue": -16,
+      "simpleReturnPercent": -16,
+      "date": "2020-05-09",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 84,
+      "returnValue": -16,
+      "simpleReturnPercent": -16,
+      "date": "2020-05-10",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 85,
+      "returnValue": -15,
+      "simpleReturnPercent": -15,
+      "date": "2020-05-11",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 85,
+      "returnValue": -15,
+      "simpleReturnPercent": -15,
+      "date": "2020-05-12",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 83,
+      "returnValue": -17,
+      "simpleReturnPercent": -17,
+      "date": "2020-05-13",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 82,
+      "returnValue": -18,
+      "simpleReturnPercent": -18,
+      "date": "2020-05-14",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 83,
+      "returnValue": -17,
+      "simpleReturnPercent": -17,
+      "date": "2020-05-15",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 83,
+      "returnValue": -17,
+      "simpleReturnPercent": -17,
+      "date": "2020-05-16",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 83,
+      "returnValue": -17,
+      "simpleReturnPercent": -17,
+      "date": "2020-05-17",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 86,
+      "returnValue": -14,
+      "simpleReturnPercent": -14,
+      "date": "2020-05-18",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 86,
+      "returnValue": -14,
+      "simpleReturnPercent": -14,
+      "date": "2020-05-19",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 87,
+      "returnValue": -13,
+      "simpleReturnPercent": -13,
+      "date": "2020-05-20",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 86,
+      "returnValue": -14,
+      "simpleReturnPercent": -14,
+      "date": "2020-05-21",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 86,
+      "returnValue": -14,
+      "simpleReturnPercent": -14,
+      "date": "2020-05-22",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 86,
+      "returnValue": -14,
+      "simpleReturnPercent": -14,
+      "date": "2020-05-23",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 86,
+      "returnValue": -14,
+      "simpleReturnPercent": -14,
+      "date": "2020-05-24",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 86,
+      "returnValue": -14,
+      "simpleReturnPercent": -14,
+      "date": "2020-05-25",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 87,
+      "returnValue": -13,
+      "simpleReturnPercent": -13,
+      "date": "2020-05-26",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 88,
+      "returnValue": -12,
+      "simpleReturnPercent": -12,
+      "date": "2020-05-27",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 89,
+      "returnValue": -11,
+      "simpleReturnPercent": -11,
+      "date": "2020-05-28",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 88,
+      "returnValue": -12,
+      "simpleReturnPercent": -12,
+      "date": "2020-05-29",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 88,
+      "returnValue": -12,
+      "simpleReturnPercent": -12,
+      "date": "2020-05-30",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 88,
+      "returnValue": -12,
+      "simpleReturnPercent": -12,
+      "date": "2020-05-31",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 89,
+      "returnValue": -11,
+      "simpleReturnPercent": -11,
+      "date": "2020-06-01",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 89,
+      "returnValue": -11,
+      "simpleReturnPercent": -11,
+      "date": "2020-06-02",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-06-03",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-06-04",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-06-05",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-06-06",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-06-07",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-06-08",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-06-09",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-06-10",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 89,
+      "returnValue": -11,
+      "simpleReturnPercent": -11,
+      "date": "2020-06-11",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 88,
+      "returnValue": -12,
+      "simpleReturnPercent": -12,
+      "date": "2020-06-12",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 88,
+      "returnValue": -12,
+      "simpleReturnPercent": -12,
+      "date": "2020-06-13",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 88,
+      "returnValue": -12,
+      "simpleReturnPercent": -12,
+      "date": "2020-06-14",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 88,
+      "returnValue": -12,
+      "simpleReturnPercent": -12,
+      "date": "2020-06-15",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-06-16",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-06-17",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-06-18",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-06-19",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-06-20",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-06-21",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-06-22",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-06-23",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-06-24",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-06-25",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-06-26",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-06-27",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-06-28",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-06-29",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-06-30",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-07-01",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-07-02",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-07-03",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-07-04",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-07-05",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-07-06",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-07-07",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-07-08",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-07-09",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-07-10",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-07-11",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-07-12",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-07-13",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-07-14",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-07-15",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-07-16",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-07-17",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-07-18",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-07-19",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-07-20",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-07-21",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-07-22",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-07-23",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-07-24",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-07-25",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-07-26",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-07-27",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-07-28",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-07-29",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-07-30",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-07-31",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-08-01",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-08-02",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-08-03",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-08-04",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-08-05",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-08-06",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-08-07",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-08-08",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-08-09",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-08-10",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-11",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-08-12",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-13",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-14",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-15",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-16",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-17",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-08-18",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-19",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-08-20",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-08-21",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-08-22",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-08-23",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-24",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-25",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-08-26",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-08-27",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-28",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-29",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-30",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-08-31",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-09-01",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-09-02",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-09-03",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-09-04",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-09-05",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-09-06",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-09-07",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-09-08",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-09-09",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-09-10",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-09-11",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-09-12",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-09-13",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-09-14",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-09-15",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-09-16",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-09-17",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-09-18",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-09-19",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-09-20",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-09-21",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-09-22",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-09-23",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-09-24",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-09-25",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-09-26",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-09-27",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-09-28",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-09-29",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-09-30",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-10-01",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-10-02",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-10-03",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-10-04",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-10-05",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-10-06",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-10-07",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-10-08",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-10-09",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-10-10",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-10-11",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-10-12",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-10-13",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-10-14",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-10-15",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-10-16",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-10-17",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-10-18",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-10-19",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-10-20",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-10-21",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 94,
+      "returnValue": -6,
+      "simpleReturnPercent": -6,
+      "date": "2020-10-22",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-10-23",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-10-24",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-10-25",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-10-26",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-10-27",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-10-28",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 91,
+      "returnValue": -9,
+      "simpleReturnPercent": -9,
+      "date": "2020-10-29",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-10-30",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-10-31",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 90,
+      "returnValue": -10,
+      "simpleReturnPercent": -10,
+      "date": "2020-11-01",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 92,
+      "returnValue": -8,
+      "simpleReturnPercent": -8,
+      "date": "2020-11-02",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 93,
+      "returnValue": -7,
+      "simpleReturnPercent": -7,
+      "date": "2020-11-03",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 95,
+      "returnValue": -5,
+      "simpleReturnPercent": -5,
+      "date": "2020-11-04",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-11-05",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-11-06",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-11-07",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 96,
+      "returnValue": -4,
+      "simpleReturnPercent": -4,
+      "date": "2020-11-08",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 99,
+      "returnValue": -1,
+      "simpleReturnPercent": -1,
+      "date": "2020-11-09",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 98,
+      "returnValue": -2,
+      "simpleReturnPercent": -2,
+      "date": "2020-11-10",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 99,
+      "returnValue": -1,
+      "simpleReturnPercent": -1,
+      "date": "2020-11-11",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 99,
+      "returnValue": -1,
+      "simpleReturnPercent": -1,
+      "date": "2020-11-12",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 99,
+      "returnValue": -1,
+      "simpleReturnPercent": -1,
+      "date": "2020-11-13",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 99,
+      "returnValue": -1,
+      "simpleReturnPercent": -1,
+      "date": "2020-11-14",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 99,
+      "returnValue": -1,
+      "simpleReturnPercent": -1,
+      "date": "2020-11-15",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 101,
+      "returnValue": 1,
+      "simpleReturnPercent": 1,
+      "date": "2020-11-16",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 100,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-11-17",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 100,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-11-18",
+      "totalContribution": 100
+    },
+    {
+      "overallValue": 155,
+      "returnValue": 0,
+      "simpleReturnPercent": 0,
+      "date": "2020-11-19",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 156,
+      "returnValue": 1,
+      "simpleReturnPercent": 0.65,
+      "date": "2020-11-20",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 156,
+      "returnValue": 1,
+      "simpleReturnPercent": 0.65,
+      "date": "2020-11-21",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 156,
+      "returnValue": 1,
+      "simpleReturnPercent": 0.65,
+      "date": "2020-11-22",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 156,
+      "returnValue": 1,
+      "simpleReturnPercent": 0.65,
+      "date": "2020-11-23",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 158,
+      "returnValue": 3,
+      "simpleReturnPercent": 1.94,
+      "date": "2020-11-24",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 157,
+      "returnValue": 2,
+      "simpleReturnPercent": 1.29,
+      "date": "2020-11-25",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 157,
+      "returnValue": 2,
+      "simpleReturnPercent": 1.29,
+      "date": "2020-11-26",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 158,
+      "returnValue": 3,
+      "simpleReturnPercent": 1.94,
+      "date": "2020-11-27",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 158,
+      "returnValue": 3,
+      "simpleReturnPercent": 1.94,
+      "date": "2020-11-28",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 158,
+      "returnValue": 3,
+      "simpleReturnPercent": 1.94,
+      "date": "2020-11-29",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 156,
+      "returnValue": 1,
+      "simpleReturnPercent": 0.65,
+      "date": "2020-11-30",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 158,
+      "returnValue": 3,
+      "simpleReturnPercent": 1.94,
+      "date": "2020-12-01",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 159,
+      "returnValue": 4,
+      "simpleReturnPercent": 2.58,
+      "date": "2020-12-02",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 159,
+      "returnValue": 4,
+      "simpleReturnPercent": 2.58,
+      "date": "2020-12-03",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 160,
+      "returnValue": 5,
+      "simpleReturnPercent": 3.23,
+      "date": "2020-12-04",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 160,
+      "returnValue": 5,
+      "simpleReturnPercent": 3.23,
+      "date": "2020-12-05",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 160,
+      "returnValue": 5,
+      "simpleReturnPercent": 3.23,
+      "date": "2020-12-06",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 160,
+      "returnValue": 5,
+      "simpleReturnPercent": 3.23,
+      "date": "2020-12-07",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 160,
+      "returnValue": 5,
+      "simpleReturnPercent": 3.23,
+      "date": "2020-12-08",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 160,
+      "returnValue": 5,
+      "simpleReturnPercent": 3.23,
+      "date": "2020-12-09",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-10",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 160,
+      "returnValue": 5,
+      "simpleReturnPercent": 3.23,
+      "date": "2020-12-11",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 160,
+      "returnValue": 5,
+      "simpleReturnPercent": 3.23,
+      "date": "2020-12-12",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 160,
+      "returnValue": 5,
+      "simpleReturnPercent": 3.23,
+      "date": "2020-12-13",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 160,
+      "returnValue": 5,
+      "simpleReturnPercent": 3.23,
+      "date": "2020-12-14",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 160,
+      "returnValue": 5,
+      "simpleReturnPercent": 3.23,
+      "date": "2020-12-15",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-16",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-17",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-18",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-19",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-20",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 159,
+      "returnValue": 4,
+      "simpleReturnPercent": 2.58,
+      "date": "2020-12-21",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-22",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-23",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-24",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-25",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-26",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-27",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-28",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 163,
+      "returnValue": 8,
+      "simpleReturnPercent": 5.16,
+      "date": "2020-12-29",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 162,
+      "returnValue": 7,
+      "simpleReturnPercent": 4.52,
+      "date": "2020-12-30",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2020-12-31",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2021-01-01",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2021-01-02",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2021-01-03",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 162,
+      "returnValue": 7,
+      "simpleReturnPercent": 4.52,
+      "date": "2021-01-04",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 162,
+      "returnValue": 7,
+      "simpleReturnPercent": 4.52,
+      "date": "2021-01-05",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 165,
+      "returnValue": 10,
+      "simpleReturnPercent": 6.45,
+      "date": "2021-01-06",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 166,
+      "returnValue": 11,
+      "simpleReturnPercent": 7.1,
+      "date": "2021-01-07",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-01-08",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-01-09",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-01-10",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-01-11",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 166,
+      "returnValue": 11,
+      "simpleReturnPercent": 7.1,
+      "date": "2021-01-12",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 166,
+      "returnValue": 11,
+      "simpleReturnPercent": 7.1,
+      "date": "2021-01-13",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-01-14",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 165,
+      "returnValue": 10,
+      "simpleReturnPercent": 6.45,
+      "date": "2021-01-15",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 165,
+      "returnValue": 10,
+      "simpleReturnPercent": 6.45,
+      "date": "2021-01-16",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 165,
+      "returnValue": 10,
+      "simpleReturnPercent": 6.45,
+      "date": "2021-01-17",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 165,
+      "returnValue": 10,
+      "simpleReturnPercent": 6.45,
+      "date": "2021-01-18",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 166,
+      "returnValue": 11,
+      "simpleReturnPercent": 7.1,
+      "date": "2021-01-19",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-01-20",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-01-21",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 166,
+      "returnValue": 11,
+      "simpleReturnPercent": 7.1,
+      "date": "2021-01-22",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 166,
+      "returnValue": 11,
+      "simpleReturnPercent": 7.1,
+      "date": "2021-01-23",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 166,
+      "returnValue": 11,
+      "simpleReturnPercent": 7.1,
+      "date": "2021-01-24",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 165,
+      "returnValue": 10,
+      "simpleReturnPercent": 6.45,
+      "date": "2021-01-25",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 166,
+      "returnValue": 11,
+      "simpleReturnPercent": 7.1,
+      "date": "2021-01-26",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 164,
+      "returnValue": 9,
+      "simpleReturnPercent": 5.81,
+      "date": "2021-01-27",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 164,
+      "returnValue": 9,
+      "simpleReturnPercent": 5.81,
+      "date": "2021-01-28",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2021-01-29",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2021-01-30",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 161,
+      "returnValue": 6,
+      "simpleReturnPercent": 3.87,
+      "date": "2021-01-31",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 162,
+      "returnValue": 7,
+      "simpleReturnPercent": 4.52,
+      "date": "2021-02-01",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 165,
+      "returnValue": 10,
+      "simpleReturnPercent": 6.45,
+      "date": "2021-02-02",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 165,
+      "returnValue": 10,
+      "simpleReturnPercent": 6.45,
+      "date": "2021-02-03",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 166,
+      "returnValue": 11,
+      "simpleReturnPercent": 7.1,
+      "date": "2021-02-04",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-02-05",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-02-06",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-02-07",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 168,
+      "returnValue": 13,
+      "simpleReturnPercent": 8.39,
+      "date": "2021-02-08",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 168,
+      "returnValue": 13,
+      "simpleReturnPercent": 8.39,
+      "date": "2021-02-09",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-02-10",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 168,
+      "returnValue": 13,
+      "simpleReturnPercent": 8.39,
+      "date": "2021-02-11",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-02-12",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-02-13",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-02-14",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 171,
+      "returnValue": 16,
+      "simpleReturnPercent": 10.32,
+      "date": "2021-02-15",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 170,
+      "returnValue": 15,
+      "simpleReturnPercent": 9.68,
+      "date": "2021-02-16",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-02-17",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-02-18",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 168,
+      "returnValue": 13,
+      "simpleReturnPercent": 8.39,
+      "date": "2021-02-19",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 168,
+      "returnValue": 13,
+      "simpleReturnPercent": 8.39,
+      "date": "2021-02-20",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 168,
+      "returnValue": 13,
+      "simpleReturnPercent": 8.39,
+      "date": "2021-02-21",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-02-22",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 165,
+      "returnValue": 10,
+      "simpleReturnPercent": 6.45,
+      "date": "2021-02-23",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-02-24",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 166,
+      "returnValue": 11,
+      "simpleReturnPercent": 7.1,
+      "date": "2021-02-25",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 164,
+      "returnValue": 9,
+      "simpleReturnPercent": 5.81,
+      "date": "2021-02-26",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 164,
+      "returnValue": 9,
+      "simpleReturnPercent": 5.81,
+      "date": "2021-02-27",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 164,
+      "returnValue": 9,
+      "simpleReturnPercent": 5.81,
+      "date": "2021-02-28",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-03-01",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 166,
+      "returnValue": 11,
+      "simpleReturnPercent": 7.1,
+      "date": "2021-03-02",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 166,
+      "returnValue": 11,
+      "simpleReturnPercent": 7.1,
+      "date": "2021-03-03",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 165,
+      "returnValue": 10,
+      "simpleReturnPercent": 6.45,
+      "date": "2021-03-04",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 163,
+      "returnValue": 8,
+      "simpleReturnPercent": 5.16,
+      "date": "2021-03-05",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 163,
+      "returnValue": 8,
+      "simpleReturnPercent": 5.16,
+      "date": "2021-03-06",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 163,
+      "returnValue": 8,
+      "simpleReturnPercent": 5.16,
+      "date": "2021-03-07",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-03-08",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-03-09",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 167,
+      "returnValue": 12,
+      "simpleReturnPercent": 7.74,
+      "date": "2021-03-10",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-11",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-12",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-13",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-14",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-15",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 170,
+      "returnValue": 15,
+      "simpleReturnPercent": 9.68,
+      "date": "2021-03-16",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-17",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 170,
+      "returnValue": 15,
+      "simpleReturnPercent": 9.68,
+      "date": "2021-03-18",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-19",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-20",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-21",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 170,
+      "returnValue": 15,
+      "simpleReturnPercent": 9.68,
+      "date": "2021-03-22",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-23",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-24",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 168,
+      "returnValue": 13,
+      "simpleReturnPercent": 8.39,
+      "date": "2021-03-25",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-26",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-27",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-28",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 169,
+      "returnValue": 14,
+      "simpleReturnPercent": 9.03,
+      "date": "2021-03-29",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 170,
+      "returnValue": 15,
+      "simpleReturnPercent": 9.68,
+      "date": "2021-03-30",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 170,
+      "returnValue": 15,
+      "simpleReturnPercent": 9.68,
+      "date": "2021-03-31",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 171,
+      "returnValue": 16,
+      "simpleReturnPercent": 10.32,
+      "date": "2021-04-01",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 171,
+      "returnValue": 16,
+      "simpleReturnPercent": 10.32,
+      "date": "2021-04-02",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 171,
+      "returnValue": 16,
+      "simpleReturnPercent": 10.32,
+      "date": "2021-04-03",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 171,
+      "returnValue": 16,
+      "simpleReturnPercent": 10.32,
+      "date": "2021-04-04",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 171,
+      "returnValue": 16,
+      "simpleReturnPercent": 10.32,
+      "date": "2021-04-05",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 173,
+      "returnValue": 18,
+      "simpleReturnPercent": 11.61,
+      "date": "2021-04-06",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 174,
+      "returnValue": 19,
+      "simpleReturnPercent": 12.26,
+      "date": "2021-04-07",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 175,
+      "returnValue": 20,
+      "simpleReturnPercent": 12.9,
+      "date": "2021-04-08",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 175,
+      "returnValue": 20,
+      "simpleReturnPercent": 12.9,
+      "date": "2021-04-09",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 175,
+      "returnValue": 20,
+      "simpleReturnPercent": 12.9,
+      "date": "2021-04-10",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 175,
+      "returnValue": 20,
+      "simpleReturnPercent": 12.9,
+      "date": "2021-04-11",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 175,
+      "returnValue": 20,
+      "simpleReturnPercent": 12.9,
+      "date": "2021-04-12",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 175,
+      "returnValue": 20,
+      "simpleReturnPercent": 12.9,
+      "date": "2021-04-13",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-04-14",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-04-15",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-04-16",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-04-17",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-04-18",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 175,
+      "returnValue": 20,
+      "simpleReturnPercent": 12.9,
+      "date": "2021-04-19",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 173,
+      "returnValue": 18,
+      "simpleReturnPercent": 11.61,
+      "date": "2021-04-20",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 174,
+      "returnValue": 19,
+      "simpleReturnPercent": 12.26,
+      "date": "2021-04-21",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-04-22",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-04-23",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-04-24",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-04-25",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-04-26",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-04-27",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-04-28",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-04-29",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-04-30",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-05-01",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-05-02",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-05-03",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 174,
+      "returnValue": 19,
+      "simpleReturnPercent": 12.26,
+      "date": "2021-05-04",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-05-05",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-05-06",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-05-07",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-05-08",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-05-09",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-05-10",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 173,
+      "returnValue": 18,
+      "simpleReturnPercent": 11.61,
+      "date": "2021-05-11",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 172,
+      "returnValue": 17,
+      "simpleReturnPercent": 10.97,
+      "date": "2021-05-12",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 172,
+      "returnValue": 17,
+      "simpleReturnPercent": 10.97,
+      "date": "2021-05-13",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 174,
+      "returnValue": 19,
+      "simpleReturnPercent": 12.26,
+      "date": "2021-05-14",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 174,
+      "returnValue": 19,
+      "simpleReturnPercent": 12.26,
+      "date": "2021-05-15",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 174,
+      "returnValue": 19,
+      "simpleReturnPercent": 12.26,
+      "date": "2021-05-16",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 174,
+      "returnValue": 19,
+      "simpleReturnPercent": 12.26,
+      "date": "2021-05-17",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 174,
+      "returnValue": 19,
+      "simpleReturnPercent": 12.26,
+      "date": "2021-05-18",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 172,
+      "returnValue": 17,
+      "simpleReturnPercent": 10.97,
+      "date": "2021-05-19",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 174,
+      "returnValue": 19,
+      "simpleReturnPercent": 12.26,
+      "date": "2021-05-20",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 174,
+      "returnValue": 19,
+      "simpleReturnPercent": 12.26,
+      "date": "2021-05-21",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 174,
+      "returnValue": 19,
+      "simpleReturnPercent": 12.26,
+      "date": "2021-05-22",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 174,
+      "returnValue": 19,
+      "simpleReturnPercent": 12.26,
+      "date": "2021-05-23",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-05-24",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-05-25",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-05-26",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 176,
+      "returnValue": 21,
+      "simpleReturnPercent": 13.55,
+      "date": "2021-05-27",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-05-28",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-05-29",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-05-30",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-05-31",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-06-01",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-06-02",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 177,
+      "returnValue": 22,
+      "simpleReturnPercent": 14.19,
+      "date": "2021-06-03",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-06-04",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-06-05",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-06-06",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-06-07",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-06-08",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-06-09",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-06-10",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 179,
+      "returnValue": 24,
+      "simpleReturnPercent": 15.48,
+      "date": "2021-06-11",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 179,
+      "returnValue": 24,
+      "simpleReturnPercent": 15.48,
+      "date": "2021-06-12",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 179,
+      "returnValue": 24,
+      "simpleReturnPercent": 15.48,
+      "date": "2021-06-13",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 179,
+      "returnValue": 24,
+      "simpleReturnPercent": 15.48,
+      "date": "2021-06-14",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 179,
+      "returnValue": 24,
+      "simpleReturnPercent": 15.48,
+      "date": "2021-06-15",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 180,
+      "returnValue": 25,
+      "simpleReturnPercent": 16.13,
+      "date": "2021-06-16",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 180,
+      "returnValue": 25,
+      "simpleReturnPercent": 16.13,
+      "date": "2021-06-17",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-06-18",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-06-19",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-06-20",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 179,
+      "returnValue": 24,
+      "simpleReturnPercent": 15.48,
+      "date": "2021-06-21",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 179,
+      "returnValue": 24,
+      "simpleReturnPercent": 15.48,
+      "date": "2021-06-22",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 179,
+      "returnValue": 24,
+      "simpleReturnPercent": 15.48,
+      "date": "2021-06-23",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 180,
+      "returnValue": 25,
+      "simpleReturnPercent": 16.13,
+      "date": "2021-06-24",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 181,
+      "returnValue": 26,
+      "simpleReturnPercent": 16.77,
+      "date": "2021-06-25",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 181,
+      "returnValue": 26,
+      "simpleReturnPercent": 16.77,
+      "date": "2021-06-26",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 181,
+      "returnValue": 26,
+      "simpleReturnPercent": 16.77,
+      "date": "2021-06-27",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 181,
+      "returnValue": 26,
+      "simpleReturnPercent": 16.77,
+      "date": "2021-06-28",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-06-29",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 181,
+      "returnValue": 26,
+      "simpleReturnPercent": 16.77,
+      "date": "2021-06-30",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-01",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-02",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-03",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-04",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-05",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-06",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 183,
+      "returnValue": 28,
+      "simpleReturnPercent": 18.06,
+      "date": "2021-07-07",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 180,
+      "returnValue": 25,
+      "simpleReturnPercent": 16.13,
+      "date": "2021-07-08",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-09",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-10",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-11",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-12",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 183,
+      "returnValue": 28,
+      "simpleReturnPercent": 18.06,
+      "date": "2021-07-13",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-14",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 181,
+      "returnValue": 26,
+      "simpleReturnPercent": 16.77,
+      "date": "2021-07-15",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 181,
+      "returnValue": 26,
+      "simpleReturnPercent": 16.77,
+      "date": "2021-07-16",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 181,
+      "returnValue": 26,
+      "simpleReturnPercent": 16.77,
+      "date": "2021-07-17",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 181,
+      "returnValue": 26,
+      "simpleReturnPercent": 16.77,
+      "date": "2021-07-18",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 178,
+      "returnValue": 23,
+      "simpleReturnPercent": 14.84,
+      "date": "2021-07-19",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 180,
+      "returnValue": 25,
+      "simpleReturnPercent": 16.13,
+      "date": "2021-07-20",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-21",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-22",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 183,
+      "returnValue": 28,
+      "simpleReturnPercent": 18.06,
+      "date": "2021-07-23",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 183,
+      "returnValue": 28,
+      "simpleReturnPercent": 18.06,
+      "date": "2021-07-24",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 183,
+      "returnValue": 28,
+      "simpleReturnPercent": 18.06,
+      "date": "2021-07-25",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-26",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 181,
+      "returnValue": 26,
+      "simpleReturnPercent": 16.77,
+      "date": "2021-07-27",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-28",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-29",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-30",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-07-31",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-08-01",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 183,
+      "returnValue": 28,
+      "simpleReturnPercent": 18.06,
+      "date": "2021-08-02",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 182,
+      "returnValue": 27,
+      "simpleReturnPercent": 17.42,
+      "date": "2021-08-03",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 183,
+      "returnValue": 28,
+      "simpleReturnPercent": 18.06,
+      "date": "2021-08-04",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 183,
+      "returnValue": 28,
+      "simpleReturnPercent": 18.06,
+      "date": "2021-08-05",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 184,
+      "returnValue": 29,
+      "simpleReturnPercent": 18.71,
+      "date": "2021-08-06",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 184,
+      "returnValue": 29,
+      "simpleReturnPercent": 18.71,
+      "date": "2021-08-07",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 184,
+      "returnValue": 29,
+      "simpleReturnPercent": 18.71,
+      "date": "2021-08-08",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 184,
+      "returnValue": 29,
+      "simpleReturnPercent": 18.71,
+      "date": "2021-08-09",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 184,
+      "returnValue": 29,
+      "simpleReturnPercent": 18.71,
+      "date": "2021-08-10",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 185,
+      "returnValue": 30,
+      "simpleReturnPercent": 19.35,
+      "date": "2021-08-11",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 185,
+      "returnValue": 30,
+      "simpleReturnPercent": 19.35,
+      "date": "2021-08-12",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 185,
+      "returnValue": 30,
+      "simpleReturnPercent": 19.35,
+      "date": "2021-08-13",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 185,
+      "returnValue": 30,
+      "simpleReturnPercent": 19.35,
+      "date": "2021-08-14",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 185,
+      "returnValue": 30,
+      "simpleReturnPercent": 19.35,
+      "date": "2021-08-15",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 184,
+      "returnValue": 29,
+      "simpleReturnPercent": 18.71,
+      "date": "2021-08-16",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 185,
+      "returnValue": 30,
+      "simpleReturnPercent": 19.35,
+      "date": "2021-08-17",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 185,
+      "returnValue": 30,
+      "simpleReturnPercent": 19.35,
+      "date": "2021-08-18",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 183,
+      "returnValue": 28,
+      "simpleReturnPercent": 18.06,
+      "date": "2021-08-19",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 184,
+      "returnValue": 29,
+      "simpleReturnPercent": 18.71,
+      "date": "2021-08-20",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 184,
+      "returnValue": 29,
+      "simpleReturnPercent": 18.71,
+      "date": "2021-08-21",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 184,
+      "returnValue": 29,
+      "simpleReturnPercent": 18.71,
+      "date": "2021-08-22",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 185,
+      "returnValue": 30,
+      "simpleReturnPercent": 19.35,
+      "date": "2021-08-23",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 186,
+      "returnValue": 31,
+      "simpleReturnPercent": 20,
+      "date": "2021-08-24",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 187,
+      "returnValue": 32,
+      "simpleReturnPercent": 20.65,
+      "date": "2021-08-25",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 186,
+      "returnValue": 31,
+      "simpleReturnPercent": 20,
+      "date": "2021-08-26",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 187,
+      "returnValue": 32,
+      "simpleReturnPercent": 20.65,
+      "date": "2021-08-27",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 187,
+      "returnValue": 32,
+      "simpleReturnPercent": 20.65,
+      "date": "2021-08-28",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 187,
+      "returnValue": 32,
+      "simpleReturnPercent": 20.65,
+      "date": "2021-08-29",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 187,
+      "returnValue": 32,
+      "simpleReturnPercent": 20.65,
+      "date": "2021-08-30",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 187,
+      "returnValue": 32,
+      "simpleReturnPercent": 20.65,
+      "date": "2021-08-31",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 188,
+      "returnValue": 33,
+      "simpleReturnPercent": 21.29,
+      "date": "2021-09-01",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 188,
+      "returnValue": 33,
+      "simpleReturnPercent": 21.29,
+      "date": "2021-09-02",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 188,
+      "returnValue": 33,
+      "simpleReturnPercent": 21.29,
+      "date": "2021-09-03",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 188,
+      "returnValue": 33,
+      "simpleReturnPercent": 21.29,
+      "date": "2021-09-04",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 188,
+      "returnValue": 33,
+      "simpleReturnPercent": 21.29,
+      "date": "2021-09-05",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 189,
+      "returnValue": 34,
+      "simpleReturnPercent": 21.94,
+      "date": "2021-09-06",
+      "totalContribution": 155
+    },
+    {
+      "overallValue": 188,
+      "returnValue": 33,
+      "simpleReturnPercent": 21.29,
+      "date": "2021-09-07",
+      "totalContribution": 155
+    }
+  ]
+}

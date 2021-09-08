@@ -6,7 +6,7 @@
     </tr>
   </thead>
   <tbody>
-  {{ $url := (printf "%s%s%s" "data/accounts/" .File.TranslationBaseName "/jisa/contributions.csv") }}
+  {{ $url := (printf "%s%s%s" "csv/accounts/" .File.TranslationBaseName "/jisa/contributions.csv") }}
   {{ $sep := "," }}
   {{ range $i, $r := getCSV $sep $url }}
     
