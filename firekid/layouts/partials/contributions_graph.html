@@ -7,6 +7,19 @@
     stroke: steelblue;
     stroke-width: 2px;
   }
+  div.tooltip {	
+    position: absolute;			
+    text-align: center;		
+    color: black;	
+    width: 100px;					
+    height: 28px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
 </style>
 <div id="my_dataviz"></div>
 
@@ -49,6 +62,8 @@
   csvData.forEach(function (d) {
     cumulativeContributions = cumulativeContributions + (+d[1]);
     d.date = parseTime(d[0]);
+    d.shortDate = d[0];
+    d.contribution = +d[1];
     d.amount = cumulativeContributions;
   });
 
@@ -56,11 +71,52 @@
   x.domain(d3.extent(csvData, function (d) { return d.date; }));
   y.domain([0, d3.max(csvData, function (d) { return d.amount; })]);
 
+
+// create a tooltip
+  svg
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "2px")
+    .style("border-radius", "5px")
+    .style("padding", "5px")
+
+  var tooltip = d3.select("body").append("div")	
+    .attr("class", "tooltip")				
+    .style("opacity", 0);
+  
   // Add the valueline path.
   svg.append("path")
     .data([csvData])
     .attr("class", "line")
     .attr("d", valueline);
+
+
+    svg.selectAll("myCircles")
+      .data(csvData)
+      .enter()
+      .append("circle")
+        .attr("fill", "steelblue")
+        .attr("stroke", "none")
+        .attr("cx", function(d) { return x(d.date) })
+        .attr("cy", function(d) { return y(d.amount) })
+        .attr("r", 4)
+        .on("mouseover", function(event, d) {		
+          console.log(d.date)
+          tooltip.transition()		
+                .duration(200)		
+                .style("opacity", .9);		
+                tooltip.html(d.shortDate + "<br/>&pound;"  + d.contribution)	
+                .style("left", (event.pageX) + "px")		
+                .style("top", (event.pageY - 28) + "px");	
+            })					
+        .on("mouseout", function(d) {		
+          tooltip.transition()		
+                .duration(500)		
+                .style("opacity", 0);	
+        })
   // svg.selectAll(".bar")
   //        .data(csvData)
   //        .enter().append("rect")
