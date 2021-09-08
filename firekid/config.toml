@@ -1,0 +1,4 @@
+baseURL = 'https://finlitkid.com/'
+languageCode = 'en-gb'
+title = 'Financial Literacy for my Kids'
+theme = 'PaperMod'

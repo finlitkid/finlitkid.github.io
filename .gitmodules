@@ -1,0 +1,3 @@
+[submodule "firekid/themes/PaperMod"]
+	path = firekid/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
