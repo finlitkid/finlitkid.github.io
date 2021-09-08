@@ -1,4 +1,23 @@
-baseURL = 'https://finlitkid.com/'
+baseURL = 'https://www.finlitkid.com/'
+enableGitInfo = true
 languageCode = 'en-gb'
-title = 'Financial Literacy for my Kids'
+title = 'The Financially Literate Kid'
 theme = 'PaperMod'
+[menu]
+[[menu.main]]
+  identifier = 'About'
+  name = 'About'
+  url = '/about/'
+  weight = -110
+[[menu.main]]
+  name = 'Blog'
+  url = '/posts/'
+  weight = -100
+[[menu.main]]
+  name = 'Investment Policy'
+  url = '/investment-policy/'
+  weight = -90
+[[menu.main]]
+  name = 'Accounts'
+  url = '/accounts/'
+  weight = -100
